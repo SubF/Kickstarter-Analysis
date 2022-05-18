@@ -12,6 +12,10 @@ Determine if the outcomes of a Kickstarter show any trends based on launch date 
 
 ### Analysis of Outcomes Based on Launch Date
 
+Out of the sample size of 4114 Kickstarter campaigns 1369 were in the category of "theater". Theater category campaigns showed a consistent trend of around 60% successful for most of the year with the exception of the summer months of May, June, July, and December. During May, June, and July the amount of successful theater campaigns spiked with May having the largest increase of 5% more successful campaigns trending downwards through June and July until reaching the trend in August. At the end of the year in December the amount of successful campaigns dropped 10% which resulted in the lowest amount of successful campaigns for based on date.
+
+Based on this analysis theater category Kickstarter campaigns should be run in May to have the highest chance of success.
+
 ![This is an image](https://github.com/SubF/Kickstarter-Analysis/blob/main/Theater%20Outcomes%20by%20Launch%20Date.png)
 
 ### Analysis of Outcomes Based on Goals
