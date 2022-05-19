@@ -32,7 +32,7 @@ Some challenges encountered when analyzing this data are as follows:
 
 ## Results
 
-Based on the analysis of outcomes based on launch date, the theater category of Kickstarter campaigns should be run in May to have the highest chance of success.
+Based on the analysis of outcomes based on launch date, the theater category of Kickstarter campaigns should be run in May to have the highest chance of success. In addition, the spike in spending on Kickstarters seem to correlate with the tax season/Christmas with the most successful campaigns after tax returns in April and a trend downwards until December. 
 
 Based on the analysis of outcomes based on goals, the theater category of Kickstarter campaigns should be run with a goal of under $4,999 or between $35,000 to $44,999 for the highest chance of success. 
 
