@@ -26,7 +26,8 @@ There were a total of 1,369 theater category campaigns with varying goals. The g
 
 Some challenges encountered when analyzing this data are as follows:
 1. I forgot to filter for theater which calculated for all category outcomes based on goals sheet. This was fixed by adding the code `Kickstarter!$Q:$Q,"=theater"`
-2. It took a while to figure out how to check between a range of two numbers but after some reserach I found out the AND function can be used to check two criteria.
+2. It took a while to figure out how to check between a range of two numbers but after some reserach I found out two criteria had to be added to check the range. This was fixed by adding the following code 
+`Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<=4999"`
 3. I have an issue matching the example line chart. My data may be different or corrupted from the data used in the example. All of the formulas look good and data seems to be pulling accurately from spot checks of the data.
 
 ## Results
