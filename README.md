@@ -35,11 +35,11 @@ Based on the analysis of outcomes based on launch date, the theater category of 
 
 Based on the analysis of outcomes based on goals, the theater category of Kickstarter campaigns should be run with a goal of under $4,999 or between $35,000 to $44,999 for the highest chance of success. 
 
-###Limitations
+### Limitations
 
 Two years of data is not a very large sample size since it will likely not take into account economic fluctuations such as a recession. This data also does not show if the Kickstarter had advertising, celebrity endorsements, etc.
 
-###Additional Tables or Graphs
+### Additional Tables or Graphs
 A bar graph can be used to compare total pledged per month on Kickstarter to see when funding is more abundant. Comparing goals does not show if a goal was surpassed and by how much.
 
 A line graph should be used to compare amount pledged to the amount of days the Kickstarter was live.
